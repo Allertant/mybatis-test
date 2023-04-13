@@ -54,8 +54,6 @@ public class PageHelperTest {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println("hello");
-        System.out.println("hello");
 
     }
 
